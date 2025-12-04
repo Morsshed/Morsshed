@@ -6,6 +6,25 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
+### BI & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-Business%20Intelligence-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+### ETL / Data Integration
+![Power BI Dataflows](https://img.shields.io/badge/Dataflows-ETL%20Pipelines-FFCA28?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-ETL%20Integration-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Cloud%20Warehouse-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Spreadsheets & Analytics
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
 ### 🔧 Skills & Technologies
 - **BI Tools:** Power BI, Metabase  
 - **ETL / Data Integration:** Dataflows, Azure Data Factory,   
