@@ -4,7 +4,6 @@
 
 I'm a **Microsoft certified Business Intelligence Analyst** with a strong passion for transforming data into meaningful insights that support smarter, faster decision-making. I specialize in designing scalable **BI solutions**, building interactive **dashboards**, and creating efficient **data models** that help organizations understand their performance and uncover new opportunities.
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
