@@ -22,3 +22,9 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 Creating data solutions that are accurate, scalable, and easy to use — enabling teams to make confident, data-driven decisions.
 
 
+## 🛠️ Tech Stack
+
+**BI Tools:** ![Power BI](assets/powerbi.png) ![Metabase](assets/metabase.png)  
+**ETL / DI:** ![Dataflows](assets/dataflows.png) ![Azure Data Factory](assets/azure_data_factory.png)  
+**Databases:** ![SQL Server](assets/sql_server.png) ![BigQuery](assets/bigquery.png) ![PostgreSQL](assets/postgresql.png)  
+**Analysis:** ![Excel](assets/excel.png)
