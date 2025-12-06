@@ -34,7 +34,7 @@ Dataflows       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜
 
 AWS             🟩🟩🟩🟩🟩🟩🟏⬜⬜⬜  
 
-SQL             🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  
+SQL                       🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  
 
 Microsoft Excel 🟪🟪🟪🟪🟪🟪🟪🟪🟏⬜  
 
