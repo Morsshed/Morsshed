@@ -51,13 +51,21 @@ Creating data solutions that are accurate, scalable, and easy to use — enablin
 
 ### 🎯 Professional Experience
 
+BI Developer
+Interactive Cares
+
+Intern Data Analyst
+WageIndicator Foundation
+
+Intern Market Analyst
+Amrita Food and Consumers
+
 ### 🎯 Academic Degrees
 
 ### 🎯 Professional Certification
 
 ### 🎯 Personal Achievements
 
-### 🎯 Recent Project Portfolio List
 
 # Contact Details
 
