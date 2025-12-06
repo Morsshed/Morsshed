@@ -48,25 +48,8 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 ### 🎯 My Focus
 Creating data solutions that are accurate, scalable, and easy to use — enabling teams to make confident, data-driven decisions.
 
-
-### 🎯 Professional Experience
-
-BI Developer
-Interactive Cares
-
-Intern Data Analyst
-WageIndicator Foundation
-
-Intern Market Analyst
-Amrita Food and Consumers
-
-### 🎯 Academic Degrees
-
-### 🎯 Professional Certification
-
-### 🎯 Personal Achievements
-
-
 # Contact Details
+Email: binislam70@gmail.com
+Linkedin : https://www.linkedin.com/in/morshed-bin-islam-718976301/
 
 
