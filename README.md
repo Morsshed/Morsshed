@@ -49,6 +49,16 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 Creating data solutions that are accurate, scalable, and easy to use — enabling teams to make confident, data-driven decisions.
 
 
+### 🎯 Professional Experience
 
+### 🎯 Academic Degrees
+
+### 🎯 Professional Certification
+
+### 🎯 Personal Achievements
+
+### 🎯 Recent Project Portfolio List
+
+# Contact Details
 
 
