@@ -27,11 +27,17 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 ### 🔧 Skills in Technologies
 
 Power BI        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜  
+
 Metabase        🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜  
+
 Dataflows       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜  
+
 AWS             🟩🟩🟩🟩🟩🟩🟏⬜⬜⬜  
+
 SQL             🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  
+
 Microsoft Excel 🟪🟪🟪🟪🟪🟪🟪🟪🟏⬜  
+
 Google Sheets   🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜
 
 ### 💡 What I Do
