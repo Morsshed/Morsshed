@@ -26,11 +26,13 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 
 ### 🔧 Skills in Technologies
 
-            Power BI        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜    SQL           🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  
-            Metabase        🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜    Excel         🟪🟪🟪🟪🟪🟪🟪🟪🟏⬜  
-            Dataflows       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜    Google Sheets 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜
-
-
+            Power BI        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜      
+            Metabase        🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜      
+            Dataflows       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜    
+            SQL             🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
+            Excel           🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜
+            Google Sheets   🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜
+            
 ### 💡 What I Do
 - Develop end-to-end BI dashboards and analytics solutions  
 - Build robust data models using SQL, DAX, and ETL pipelines  
