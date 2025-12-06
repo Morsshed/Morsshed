@@ -24,18 +24,17 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
-### 🔧 Skills & Technologies
+### 🔧 Skills in Technologies
 ## Skills
 
-| Skill               | Proficiency |
-|--------------------|------------|
-| Power BI            | █████████░░ 8/10 |
-| Metabase            | ████████░░░ 7/10 |
-| Dataflows           | ████████░░░ 7/10 |
-| AWS                 | ██████░░░░ 6.5/10 |
-| SQL                 | ██████████ 9/10 |
-| Microsoft Excel     | █████████░░ 8.5/10 |
-| Google Sheets       | █████████░░ 8/10 |
+**Power BI**        🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 8/10  
+**Metabase**        🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 7/10  
+**Dataflows**       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 7/10  
+**AWS**             🟨🟨🟨🟨🟨🟨▏⬜⬜⬜ 6.5/10  
+**SQL**             🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 9/10  
+**Microsoft Excel** 🟦🟦🟦🟦🟦🟦🟦🟦▏⬜ 8.5/10  
+**Google Sheets**   🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 8/10
+
   
 
 ### 💡 What I Do
