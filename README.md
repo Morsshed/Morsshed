@@ -28,7 +28,7 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 
             Power BI        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜      
 
-            Metabase        🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜      
+            Metabase        🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜      
 
             Dataflows       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜   
 
