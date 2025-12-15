@@ -1,4 +1,52 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Message</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f0f0f0;
+    }
+    h1 {
+      color: #2c3e50;
+      font-size: 2em;
+      animation: fadeIn 2s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <h1 id="message"></h1>
+
+  <script>
+    const message = "Hi, I am Morshed and a Business Intelligence Analyst";
+    let i = 0;
+    const display = document.getElementById("message");
+
+    function typeWriter() {
+      if (i < message.length) {
+        display.innerHTML += message.charAt(i);
+        i++;
+        setTimeout(typeWriter, 100); // Adjust speed here
+      }
+    }
+
+    typeWriter();
+  </script>
+</body>
+</html>
+
+
 ## 👋 Hi, I'm **Morshed**
 ###  Business Intelligence Developer | Data Analyst | Insight Builder
 
