@@ -1,11 +1,28 @@
 
 ## 👋 Hi, I'm **Morshed**
-###  Business Intelligence Developer | Data Analyst | Insight Builder
+###  Organisationl Innovation Consultant | HR Business Partner | People & Culture
 
-I'm a **Microsoft certified Business Intelligence Analyst** with a strong passion for transforming data into meaningful insights that support smarter, faster decision-making. I specialize in designing scalable **BI solutions**, building interactive **dashboards**, and creating efficient **data models** that help organizations understand their performance and uncover new opportunities.
+# Morshed Bin Islam
+
+**Organisational Innovation Consultant | HR Business Partner | People & Culture**
+
+I work at the intersection of **organisational innovation, people strategy, and digital work**. My professional and academic background focuses on how organizations can unlock innovation through effective people management, collaborative cultures, and modern work practices.
+
+With experience in **HR business partnering, organisational development, and employee life cycle management**, I support organizations in aligning people strategies with evolving business and innovation goals. My work emphasizes building **innovation-oriented cultures, agile teams, and high-performing work environments**.
+
+My research and professional interests include **organisational innovation, cross-border remote work, virtual collaboration, and innovative work behaviors in globally distributed teams**.
+
+I hold international academic qualifications from **Germany, the Netherlands, and Switzerland**, which shape my global perspective on management, innovation, and people practices.
+
+---
+
+*"Innovation flourishes where people, culture, and collaboration align."*
 
 
-## 🛠️ Tech Stack
+## 🛠️ BI Consulting Tools
+
+### HR Technology
+![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-HR%20Management-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -25,6 +42,11 @@ I'm a **Microsoft certified Business Intelligence Analyst** with a strong passio
 
 
 ### 🔧 Skills in Technologies
+### HR Systems (SAP SuccessFactors)
+
+            EC Module       🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜
+
+            PMGM Module     🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜
 
             Power BI        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜      
 
