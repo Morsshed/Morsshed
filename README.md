@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm **Morshed**
-###  Data-driven Innovation Consultant | HR Business Partner | People & Culture
+###  Organisational Innovation Consultant | HR Business Partner | People & Culture
 
 I work at the intersection of **organisational innovation, people strategy, and data-driven decision-making**. My work focuses on how organizations can unlock innovation through effective people management, collaborative cultures, and modern digital work practices.
 
