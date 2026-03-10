@@ -1,96 +1,59 @@
 ## 👋 Hi, I'm **Morshed**
-###  Organisational Innovation Consultant | HR Business Partner | People & Culture
+# Morshed Bin Islam
 
-I work at the intersection of **organisational innovation, people strategy, and data-driven decision-making**. My work focuses on how organizations can unlock innovation through effective people management, collaborative cultures, and modern digital work practices.
+**People Operations | HRBP Consultant | HR Analytics Enthusiast**
 
-With professional experience in **HR business partnering, organizational development, and HR systems**, I support organizations in aligning **people strategy with innovation and business transformation**. I also apply **business analytics and BI tools** to translate organizational data into insights that support strategic decisions.
-
-I hold a Bachelor's degree and **two international Master's degrees from Germany, the Netherlands, and Switzerland**, which shaped my global perspective on management, innovation, and HR practices.
+I specialize in **aligning HR strategy with organizational goals** and leveraging **data-driven insights** to improve workforce performance and engagement. With experience in **People Operations, HR Business Partnering, and HR Analytics**, I support organizations in designing **strategic HR processes, workforce planning, and talent management initiatives**.
 
 ---
 
-# Research & Innovation Focus
+## 💡 What I Do
 
-- Organisational Innovation
-- Innovation-Oriented Work Culture
-- Cross-Border Remote Work
-- Innovative Work Behaviors
-- Virtual Team Collaboration
-- Digital Work Systems
-- Global Talent & Distributed Knowledge Work
-
----
-
-# What I Do
-
-- Apply **data-driven approaches** to support organisational innovation
-- Develop **BI dashboards and analytics solutions**
-- Translate complex organizational and people data into **actionable insights**
-- Support **HR strategy and organizational transformation**
-- Improve reporting workflows and automate data processes
-- Collaborate with teams to solve **business, people, and data challenges**
+- Drive **People Operations** to optimize employee experience and performance  
+- Partner with business leaders as an **HRBP** to implement strategic initiatives  
+- Analyze workforce data and create **HR dashboards and insights**  
+- Improve **talent management, performance evaluation, and engagement strategies**  
+- Support **HR decision-making with analytics, metrics, and reporting**  
+- Implement **data-driven HR practices** to enhance organizational effectiveness
 
 ---
 
-# Innovation & Strategy Skills
+## 📊 Skills
 
-- Organisational Innovation
-- Innovation Culture Development
-- Organizational Development
-- Change Management
-- Strategic HR Management
-- Agile Ways of Working
-- Innovation in Distributed Teams
+### HR Strategy & People Operations
+- Talent Management & Development  
+- Performance & Rewards Management  
+- Employee Engagement & Retention  
+- HR Policy & Compliance  
 
----
+### HR Analytics & Data-Driven Decision Making
+- HR Metrics & Workforce Analytics  
+- Power BI / Data Visualization  
+- SQL, DAX, ETL Pipelines  
+- Predictive HR Modeling  
 
-# Data & Analytics Skills
-
-- Business Intelligence (Power BI)
-- Data Visualization
-- Data Modeling
-- People Analytics
-- Evidence-Based Decision Making
-- Organizational Performance Analytics
+### Tools & Technologies
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-HCM%20Platform-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
+- HRIS Systems, Excel, Tableau, SQL  
 
 ---
 
-# Tools & Technologies
+## 🌍 Professional Interests
 
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### HR Technology
-![SAP SuccessFactors](https://img.shields.io/badge/SAP%20SuccessFactors-HCM%20Platform-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-### Other Tools
-- SQL
-- DAX
-- ETL Pipelines
-- Agile / Scrum
+- Data-Driven HR & People Analytics  
+- Workforce Planning & Optimization  
+- Organizational Behavior & Culture  
+- Employee Experience & Engagement  
+- Strategic HRBP Practices  
 
 ---
 
-# Professional Interests
+## 🤝 Connect
 
-- Future of Work
-- Digital Transformation
-- Global Innovation Networks
-- Remote Work Systems
-- Organizational Behavior in Virtual Teams
+- LinkedIn: [https://www.linkedin.com/in/morshed-bin-islam-718976301/]  
+- Email: [binislam70@gmail.com]  
 
----
-
-# Connect
-
-If you are interested in **organizational innovation, HR strategy, or data-driven management**, feel free to connect.
-
-# Contact Details
-Email: binislam70@gmail.com
-Linkedin : https://www.linkedin.com/in/morshed-bin-islam-718976301/
-
----
-
-*"Innovation emerges where people, culture, and knowledge connect."*
+*"People are the heart of every organization; data and insights make the impact measurable."*
 
 
